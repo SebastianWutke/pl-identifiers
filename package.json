@@ -1,6 +1,6 @@
 {
   "name": "pl-identifiers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate and validate Polish PESEL, NIP, REGON, IBAN/NRB and ID card numbers. Zero dependencies, TypeScript types.",
   "type": "module",
   "exports": {
