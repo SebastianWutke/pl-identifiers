@@ -8,7 +8,7 @@ Generowanie i walidacja polskich numerów: **PESEL, NIP, REGON, IBAN/NRB i numer
 - Losowanie przez `crypto.getRandomValues` (nie `Math.random`)
 - Działa w Node.js 20+ i w nowoczesnych przeglądarkach
 
-[English README](README.md)
+[English README](../README.md)
 
 > Potrzebujesz numerów bez pisania kodu? Ta sama logika działa w darmowym
 > **[Generatorze danych testowych](https://wusebox.com/generator-danych-testowych/)**

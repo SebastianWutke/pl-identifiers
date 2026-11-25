@@ -8,7 +8,7 @@ Generate and validate Polish identifiers: **PESEL, NIP, REGON, IBAN/NRB and ID c
 - Random values come from `crypto.getRandomValues` (no `Math.random`)
 - Works in Node.js 20+ and modern browsers
 
-[Polska wersja README](README.pl.md)
+[Polska wersja README](https://github.com/SebastianWutke/pl-identifiers/blob/main/docs/README.pl.md)
 
 > Need numbers without writing code? The same logic runs in the free online
 > **[Test data generator](https://wusebox.com/test-data-generator/)** and
