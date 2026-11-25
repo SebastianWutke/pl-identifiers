@@ -1,0 +1,49 @@
+{
+  "name": "pl-identifiers",
+  "version": "1.0.0",
+  "description": "Generate and validate Polish PESEL, NIP, REGON, IBAN/NRB and ID card numbers. Zero dependencies, TypeScript types.",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    }
+  },
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "files": [
+    "src",
+    "README.pl.md"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/index.test.js"
+  },
+  "keywords": [
+    "pesel",
+    "nip",
+    "regon",
+    "iban",
+    "nrb",
+    "dowod-osobisty",
+    "polish",
+    "poland",
+    "validator",
+    "generator",
+    "test-data",
+    "checksum"
+  ],
+  "author": "Sebastian Wutke (https://wusebox.com)",
+  "license": "MIT",
+  "homepage": "https://wusebox.com/test-data-generator/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianWutke/pl-identifiers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SebastianWutke/pl-identifiers/issues"
+  }
+}
