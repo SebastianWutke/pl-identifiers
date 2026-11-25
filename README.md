@@ -14,6 +14,8 @@ Generate and validate Polish identifiers: **PESEL, NIP, REGON, IBAN/NRB and ID c
 > **[Test data generator](https://wusebox.com/test-data-generator/)** and
 > **[PESEL generator](https://wusebox.com/pesel-generator/)** on WuseBox.
 
+Walkthrough with examples and the NIP remainder-10 pitfall: [Open-Source npm Package for Polish PESEL, NIP and REGON Numbers](https://wusebox.com/en/blog/open-source-npm-package-for-polish-pesel-nip-and-regon/).
+
 ## Install
 
 ```bash
